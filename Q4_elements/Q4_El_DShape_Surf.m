@@ -1,0 +1,4 @@
+function [DNshapeS] = Q4_El_DShape_Surf(NES,xi)
+
+DNshapeS(1) = -1/2;
+DNshapeS(2) = +1/2;
