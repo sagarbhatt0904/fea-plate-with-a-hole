@@ -4,7 +4,7 @@ CST:  CST.m
 4 Noded Elements: Quad.m
 8 Noded Elements: Q8_node.m
 
-The code requires the following:
+The codes requires the following:
 
 - Node info (in csv file ): Node ID, X-Coordinate, Y-Coordinate
 - Element info (in csv file ): Element ID, Material ID, Element connectivity matrix
