@@ -10,7 +10,7 @@ CST:  CST.m
 - Element info (in csv file ): Element ID, Material ID, Element connectivity matrix
 - Material info (in txt file ): Material ID, Elastic Modulus, Poisson’s Ratio 
 
-###Boundary Conditions (To be edited in the code):
+#####Boundary Conditions (To be edited in the code):
 	– Dirichlet BC: Node ID, DOF, Value
 	– Neumann BC: Element ID, Nodes, DOF, Value
 
